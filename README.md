@@ -38,7 +38,7 @@ streamlit run incpred.py
 
 Here is how the application looks:
 
-![App Screenshot](screenshot.png)
+Screenshot 2026-05-17 180252.png
 
 ---
 
